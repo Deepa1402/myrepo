@@ -1,0 +1,9 @@
+C:\Users\TQ_Deepa\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Users\TQ_Deepa\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\TQ_Deepa\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\TQ_Deepa\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\TQ_Deepa\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\TQ_Deepa\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\TQ_Deepa\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\TQ_Deepa\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\TQ_Deepa\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
